@@ -1,8 +1,6 @@
 package pbo.f01;
-
 import pbo.f01.model.ParkingArea;
 import pbo.f01.model.Vehicle;
-
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
